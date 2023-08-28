@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(104, 92, 121);
+    background: linear-gradient(90deg, rgba(104, 92, 121, 1) 0%, rgba(223, 194, 242, 1) 50%, rgba(212, 196, 41, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Days One', sans-serif;
+}
